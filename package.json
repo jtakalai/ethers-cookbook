@@ -1,0 +1,16 @@
+{
+  "name": "ethers-cookbook",
+  "version": "1.0.0",
+  "description": "ethers.js examples from the documentation, in runnable form",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^4.0.31",
+    "ganache-cli": "^6.4.4",
+    "solc": "^0.4.24"
+  }
+}
